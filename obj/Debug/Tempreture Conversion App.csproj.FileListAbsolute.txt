@@ -1,0 +1,10 @@
+T:\ProdigyInternship\Tempreture Conversion App\bin\Debug\Tempreture Conversion App.exe.config
+T:\ProdigyInternship\Tempreture Conversion App\bin\Debug\Tempreture Conversion App.exe
+T:\ProdigyInternship\Tempreture Conversion App\bin\Debug\Tempreture Conversion App.pdb
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture Conversion App.csprojAssemblyReference.cache
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture_Conversion_App.Form1.resources
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture_Conversion_App.Properties.Resources.resources
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture Conversion App.csproj.GenerateResource.cache
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture Conversion App.csproj.CoreCompileInputs.cache
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture Conversion App.exe
+T:\ProdigyInternship\Tempreture Conversion App\obj\Debug\Tempreture Conversion App.pdb
